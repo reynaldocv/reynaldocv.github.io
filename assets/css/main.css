@@ -1,0 +1,56 @@
+
+.w3-row-padding img {
+    margin-bottom: 50px
+}
+/* Set the width of the sidebar to 120px */
+.w3-sidebar {
+    width: 300px;
+    background-color: black;
+    text-align: left;
+}    
+
+/* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+#main {margin-left: 300px}
+/* Remove margins from "page content" on small screens */
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
+
+#title{
+    margin-top: -20px;
+    border: 1px solid black;
+    position: relative;        
+}
+#title > img{
+    width: 100%;
+    height: auto;
+}
+
+#title > p{
+    color:coral;
+    position: absolute;
+    font-size: large;
+    font-weight: bolder;    
+    bottom: -15px;
+    left: 10px; 
+    z-index: 100;
+}
+#title > .icons{
+    position: absolute;
+    bottom: -30px;
+    left: 10px; 
+    z-index: 100;
+
+}
+#title > .icons > i{
+    color: black;
+
+}
+#title > .icons > i:hover{
+    cursor: pointer;
+    color: black;
+    font-weight: bolder;
+
+}
+
+.w3-table-all{
+    border: 0px solid black;
+}

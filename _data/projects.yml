@@ -1,0 +1,60 @@
+- title: "Cronicos monitoring"
+  description: "Software to monitor chronic people. This web page helps to improve the monitoring of sick people, and manage their attentions, electrocardiograms in hypertensive people, foot cheek in diabetic people, references to a major hospital, and Mosare"
+  software: "Django, Python3, Javascript, CSS & SQLite"
+  url: "https://example.com"
+
+- title: "Web-Content-Analysis (link)"
+  description: "Software to analyze inappropriate content of a web page. It uses Microsoft Microsoft Azure and Google Cloud services to analyze images and search words and phrases ()."
+  software: "Javascript"
+  url: "https://example.com"
+
+- title: "MAC6929-IoT-parking"
+  description: "Prototype software for parking management. This system returns the number of total free parking spaces. Use Machine Learning to know how many free sites there will be in the future."
+  software: "Python, Android Studio & Java"
+  url: "https://example.com"
+
+- title: "Leetcode"
+  description: "This repository contains solutions to problems on leetcode.com."
+  software: "Python3"
+  url: "https://example.com"
+
+- title: "Cronicos monitoring"
+  description: "Software to monitor chronic people. This web page helps to improve the monitoring of sick people, and manage their attentions, electrocardiograms in hypertensive people, foot cheek in diabetic people, references to a major hospital, and Mosare"
+  software: "Django, Python3, Javascript, CSS & SQLite"
+  url: "https://example.com"
+
+- title: "Web-Content-Analysis (link)"
+  description: "Software to analyze inappropriate content of a web page. It uses Microsoft Microsoft Azure and Google Cloud services to analyze images and search words and phrases ()."
+  software: "Javascript"
+  url: "https://example.com"
+
+- title: "MAC6929-IoT-parking"
+  description: "Prototype software for parking management. This system returns the number of total free parking spaces. Use Machine Learning to know how many free sites there will be in the future."
+  software: "Python, Android Studio & Java"
+  url: "https://example.com"
+
+- title: "Leetcode"
+  description: "This repository contains solutions to problems on leetcode.com."
+  software: "Python3"
+  url: "https://example.com"
+
+- title: "Cronicos"
+  description: "Software to monitor chronic people. This web page helps to improve the monitoring of sick people, and manage their attentions, electrocardiograms in hypertensive people, foot cheek in diabetic people, references to a major hospital, and Mosare"
+  software: "Django, Python3, Javascript, CSS & SQLite"
+  url: "https://example.com"
+
+- title: "sbseg2023"
+  description: "This repository contains the software and the paper for Recovering the Secret on Binary Ring-LWE problem with Random Known bits - sbseg2023"
+  software: "Javascript"
+  url: "https://example.com"
+
+- title: "MAC6929-IoT-parking"
+  description: "Prototype software for parking management. This system returns the number of total free parking spaces. Use Machine Learning to know how many free sites there will be in the future."
+  software: "Python, Android Studio & Java"
+  url: "https://example.com"
+
+- title: "Leetcode"
+  description: "This repository contains solutions to problems on leetcode.com."
+  software: "Python3"
+  url: "https://example.com"
+

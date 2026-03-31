@@ -1,0 +1,26 @@
+- authors: "R. C. Villena and R. Terada, "
+  title: "Recovery of the secret on binary ring-lwe problem using random known bits-extended version"
+  url: "https://journals-sol.sbc.org.br/index.php/jisa/article/view/3871" 
+  notes: ", Journal of Internet Services and Applications, vol. 15, no. 1, pp. 39–45, 2024."
+
+- authors: "R. Villena and R. Terada, "
+  title: "Recovering the secret on binary ring-lwe problem with random known bits"
+  url: "https://sol.sbc.org.br/index.php/sbseg/article/view/27235" 
+  notes: ", in Anais do XXIII Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais, Juiz de Fora/MG: SBC, 2023, pp. 534–539."
+
+
+- authors: "R. Terada and R. C. Villena,"
+  title: "Vulnerability—information leakage of reused secret key in newhope"
+  url: "https://www.jstage.jst.go.jp/article/transfun/E105.A/6/E105.A_2021EAP1048/_article" 
+  notes: ", IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, vol. 105, no. 6, pp. 952–964, 2022."
+
+- authors: "R. Villena and R. Terada,"
+  title: "The importance of the public global parameter on ring-lwe problem-based key encapsulation mechanisms"
+  title_url: "https://sol.sbc.org.br/index.php/sbseg/article/view/21682" 
+  notes: ", in Anais do XXII Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais, Santa Maria: SBC, 2022, pp. 378–383."
+
+- authors: "R. Terada and R. C. Villena,"
+  title: "Factoring a multiprime modulus n with random bits"
+  url: "https://link.springer.com/chapter/10.1007/978-3-319-27659-5_13" 
+  notes: ", in Information Security: 16th International Conference, ISC 2013, Dallas, Texas, November 13-15, 2013, Proceedings,Springer, 2015, pp. 185–196."
+

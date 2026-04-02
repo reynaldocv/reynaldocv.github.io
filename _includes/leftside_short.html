@@ -24,12 +24,23 @@
     <br>
     </div>
     
-    {% assign sorted_sections = site.sections | sort: "sort_by_number" %}
-    {% for section in sorted_sections %}     
-    <a href="#{{section.id}}" class="w3-bar-item w3-button w3-padding-large w3-hover-blue">
-        <i class="fa fa-caret-right w3-large"> {{section.short}} </i>
-    </a>      
-    {% endfor %}
+    <a href="{{ site.baseurl }}/" class="w3-bar-item w3-button w3-padding-large w3-hover-blue">
+        <i class="fa fa-caret-left w3-large"> Home Page</i>
+    </a>     
+    <br> 
+    <br> 
+    <a href="{{ site.baseurl }}/seminaries/phd/" class="w3-bar-item w3-button w3-padding-large w3-hover-blue">
+        <i class="fa fa-caret-right w3-large"> Ph.D. seminars </i>
+    </a>   
+   
+    <a href="{{ site.baseurl }}/seminaries/msc/" class="w3-bar-item w3-button w3-padding-large w3-hover-blue">
+        <i class="fa fa-caret-right w3-large"> Ms.C. seminars </i>
+    </a>   
+
+     <a href="{{ site.baseurl }}/seminaries/eng/" class="w3-bar-item w3-button w3-padding-large w3-hover-blue">
+        <i class="fa fa-caret-right w3-large"> Eng. seminars </i>
+    </a>   
+    
 
       
   

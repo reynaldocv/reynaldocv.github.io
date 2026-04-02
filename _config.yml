@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: reynaldocv
 email: reynaldocv@gmail.com
-description: "A blog about my experience with Jekyll and GitHub Pages"
+description: "reynaldocv's personal website"
  
   
 baseurl: "/github-pages-with-docker" # the subpath of your site, e.g. /blog
@@ -44,7 +44,5 @@ plugins:
 collections:
   sections:
     output: true
-
-collections:
-  seminaries:
+  seminars:
     output: true

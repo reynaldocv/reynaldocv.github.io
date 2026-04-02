@@ -27,7 +27,7 @@ sort_by_number: 1
       <td colspan='2'>
       {% if item.seminaries_label %}
         <sub>        
-        <a href="https:/{{ site.url }}/eng_course/.md">
+        <a href="{{ site.baseurl }}/{{item.seminaries_folder}}">
         <i class="fa fa-file-o"> {{item.seminaries_label}} </i>
         </a>
         </sub>

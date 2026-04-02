@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+{% include header.html %}
+
+<body class="w3-white">
+
+{% include leftside_short.html %}
+
+<div class="w3-padding-small" id="main">
+  <!-- Header/Home -->
+
+  {% include head.html %}
+   <div class="w3-padding-32 w3-content">
+  <!-- About Section -->
+   <h3> {{page.title}}<h3>
+   <h6> {{page.institution}}<br> 
+   <b>{{page.university}}</b><br>
+   <a href="{{page.institution_url}}">{{page.institution_short}}</a>
+  </h6>
+
+  {{content}}
+  
+{% assign category = page.degree %}
+{% assign items = site.data.seminars | where_exp: "item", "item.degree == category" %}
+
+{% for item in items %}
+
+<table class="w3-ul w3-border w3-hover-shadow">
+<tr>
+<td class="w3-lightgray">
+<a href="">{{item.title| upcase}} </a>        
+</td>
+<td class="w3-lightgray w3-right-align">
+<sup> {{item.date | upcase}}</sup>        
+</td>
+</tr>
+<tr>
+<td class="w3-lightgray" colspan="2">
+{{item.description}}        
+</td>      
+</tr>   
+</table> 
+<br>
+{% endfor %}
+
+
+</div>
+</div>
+
+
+
+</body>
+</html>

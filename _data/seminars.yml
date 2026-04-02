@@ -1,0 +1,28 @@
+- title: "Publishing Upper Half of RSA Decryption Exponent"  
+  date: 2011-05-31
+  degree: "msc"
+  description: "No criptosistema RSA, dado um expoente pequeno de encriptação 'e', a metade superior de bits do expoente de desencrptação 'd' é facilmente calculado. No seminário vamos expor alguns esquemas onde utiliza este fato para conseguir uma desencriptação eficiente do RSA."
+  
+- title: "Correção de Erros nas Chaves Privadas RSA"  
+  date: 2011-08-30
+  degree: "msc"
+  description: "Seja pk = (N , e) a chave pública RSA e a correspondente chave secreta sk(p, q, d, dp, dq, qp-1). Sabemos que podemos obter um sk' (sk com erros) usando um ataque side-channel. Neste seminário apresentaremos um algoritmo probabilístico capaz de corrigir erros em sk' para obter o sk original."
+
+- title: "Ataques Cold-Boots e Reconstrução da Chave Privada RSA"
+  date: 2012-03-28
+  description: "Em 2008, J. A. Halderman publicou um artigo onde mostra que é possível a recuperação da informação (bits) graças à propriedade de remanência da memória DRAM. Esse conhecimento é usado para recuperar uma versão degradada da chave secreta RSA. Na qual N. Heninger e H. Shacham apresentam um algoritmo de reconstrução que faz uso da redundância da chave secreta RSA segundo ao padrão PCKS #1 para corrigir a chave privada, e assim, obter o seu valor correto."
+  
+- title: "Reconstrução da Chave Privada RSA Multi-primo (1 parte)"
+  date: 2012-09-04
+  degree: "msc"
+  description: "Em 2008, J. A. Halderman publicou um artigo onde mostra que é possível a recuperação da informação (bits) graças à propriedade de remanência da memória DRAM. Esse conhecimento é usado para recuperar uma versão degradada da chave secreta RSA. Na qual N. Heninger e H. Shacham apresentam um algoritmo de reconstrução que faz uso da redundância da chave secreta RSA segundo ao padrão PCKS #1 para corrigir a chave privada, e assim, obter o seu valor correto. O padrão PCKS #1 a partir da versão 2.0 tem suporte também para a variante RSA multi-primo, onde também é especificado a mesma fraqueza redundância na chave privada. Neste seminário, vamos estudar o algoritmo de Reconstrução de chave privada de Heninger para o RSA multi-primo."
+  
+- title: "Fatoração do Inteiro N multi-primo com Bits Aleatórios"
+  date: 2013-04-03
+  degree: "phd" 
+  description: "Em 2008, J. A. Halderman publicou um artigo onde mostra que é possível a recuperação da informação (bits) graças à propriedade de remanência da memória DRAM. Esse conhecimento pode ser usado para recuperar alguns bits corretos dos fatores primos de N e da chave privada RSA multi-primo. No Seminário será apresentado uma variação do algoritmo de reconstrução de bits de Heninger e Shacham que permite fatorar N multi-primo em tempo polinomial tendo uma determinada porcentagem de bits corretos dos seus fatores primos."
+  
+- title: "Reconstrução da chave secreta do RSA multi-primo (Completo)"
+  date: 2013-09-23
+  degree: "msc"
+  description: "Em 2009, N. Heninger e H. Shacham apresentaram um algoritmo de reconstrução que permite recuperar a chave secreta sk do criptossistema RSA básico em tempo polinomial tendo em forma aleatória 27 % dos seus bits. Baseados nesse algoritmo foi implementado seu análogo para o criptossistema RSA multi-primo onde os resultados obtidos mostram que para reconstruir uma chave secreta sk do criptossistema RSA u-primos é preciso ter uma porcentagem de bits corretos maior a 27%, portanto o criptossistema RSA multi-primo oferece uma segurança maior com relação ao criptossistema RSA básico."

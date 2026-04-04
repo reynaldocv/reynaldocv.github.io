@@ -85,3 +85,13 @@
     
 }
 
+.download{
+    font-size: medium;
+    font-weight: bolder;
+    background-color: white;
+    padding: 5px 20px 5px 20px;
+    border-radius: 10px;
+}
+.download > i{
+    font-size: larger;
+}

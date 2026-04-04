@@ -5,7 +5,6 @@ title:  "Reynaldo Caceres Villena"
 icon: fa-user
 sort_by_number: 0 
 ---
-
 Ph.D. & M.Sc. in Computer Science at Institute of Mathematics and Statistics at University of São Paulo 
 ([IME-USP](https://www.ime.usp.br/)). My advisor is
 [Routo Terada](https://www.ime.usp.br/rt/) and my areas of interest are: 

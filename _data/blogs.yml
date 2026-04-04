@@ -5,7 +5,7 @@
 #  url: "https://github.com/reynaldocv/Cronicos"
 
 - title: "Cibersecurity"  
-  url: "https://github.com/reynaldocv/Cronicos"
+  url: "{{site.baseurl}}/cibersecurity/"
 
 #- title: "Computational Complexity"  
 #  url: "https://github.com/reynaldocv/Cronicos"

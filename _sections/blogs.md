@@ -1,5 +1,5 @@
 ---
-id: "teaching"
+id: "blogs"
 title: "Blogs"
 short: "Blogs"
 icon: fa-book

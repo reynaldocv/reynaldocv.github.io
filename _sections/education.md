@@ -23,7 +23,7 @@ sort_by_number: 1
       <td style='text-align:right'><sub><b>{{item.adviser_label}}</b> 
       <a href="{{item.adviser_url}}">{{item.adviser}}</a></sub></td>
     </tr>   
-    <tr>
+    <!--<tr>
       <td colspan='2'>
       {% if item.seminaries_label %}
         <sub>        
@@ -33,7 +33,7 @@ sort_by_number: 1
         </sub>
       {% endif %}
       </td>
-    </tr>  
+    </tr>-->  
   </table>     
   
 {% endfor %}

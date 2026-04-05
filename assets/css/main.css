@@ -87,10 +87,19 @@
 
 .download{
     color: black;
-    font-size: medium;
-    font-weight: bolder;
+    font-size: medium;    
     background-color:lightgreen;
-    padding: 5px 20px 5px 20px;
+    padding: 4px 20px 4px 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.download:hover{
+    color: black;
+    font-size: medium;
+    font-weight:bolder; 
+    background-color:lightcoral;
+    padding: 4px 20px 4px 20px;    
     border-radius: 10px;
 }
 

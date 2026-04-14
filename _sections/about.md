@@ -11,8 +11,7 @@ Ph.D. & M.Sc. in Computer Science at Institute of Mathematics and Statistics at 
 
     - Number Theory
     - Cryptography
-    - Cyber-Security 
-
+    
 #### Languages: 
 
 - **Spanish** (native)

@@ -3,14 +3,8 @@
   software: "Python3"
   url: "https://github.com/reynaldocv/leetcode"
   status: "Constantly changing"
-  footer: "![LeetCode Stats](https://leetcard.jacoblin.cool/reynaldocv?theme=dark&font=Bellefair)"
+  footer: "![LeetCode Stats](https://leetcard.jacoblin.cool/reynaldocv?theme=dark&font=Bellefair)" 
   
-- title: "E-vote using Blockchain"
-  description: ""
-  software: "Blockchain"
-  url: ""
-  status: "In process"
-
 - title: "Gemini - CollectiveAccess"
   description: "This plugin automates the creation of concise data using Gemini (large language model developed by Google AI. It's designed to be more advanced than previous models, capable of understanding and responding to complex queries), which are then integrated into CollectiveAccess's database."
   software: "PHP, Gemini API & CollectiveAccess"

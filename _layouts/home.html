@@ -13,7 +13,11 @@
   {% include head.html %}
   
   <div class="w3-content w3-padding-large">
-      {{ content }}
+      {% assign items = site.data.root.players | where_exp: "item", "item.degree == category" %}
+
+      {% for item in items %}
+        item 
+      {% endfor}
   </div>
 
 </div>
